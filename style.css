@@ -33,7 +33,7 @@ html,body{
     background-color: #e54a4d;
     position: absolute;
     top: 70px;
-    left: 300px;
+    left: 700px;
     transform: rotate(16deg);
 }
 .obi2{
@@ -42,7 +42,7 @@ html,body{
     background-color: #e54a4d;
     position: absolute;
     top: 110px;
-    left: 900px;
+    left: 1100px;
     transform: rotate(65deg);
 }
 
@@ -52,7 +52,7 @@ html,body{
     height: 150px;
     position: absolute;
     top: 20px;
-    left: 550px;
+    left: 950px;
 }
 
 .obi4{
