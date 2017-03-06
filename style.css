@@ -38,10 +38,10 @@ html,body{
 }
 .obi2{
     width: 300px;
-    height: 700px;
+    height: 900px;
     background-color: #e54a4d;
     position: absolute;
-    top: 110px;
+    top: 90px;
     left: 1100px;
     transform: rotate(65deg);
 }
