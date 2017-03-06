@@ -32,17 +32,17 @@ html,body{
     height: 2000px;
     background-color: #e54a4d;
     position: absolute;
-    top: 50px;
+    top: 70px;
     left: 100px;
-    transform: rotate(20deg);
+    transform: rotate(16deg);
 }
 .obi2{
     width: 200px;
-    height: 500px;
+    height: 600px;
     background-color: #e54a4d;
     position: absolute;
-    top: 100px;
-    left: 550px;
+    top: 80px;
+    left: 540px;
     transform: rotate(60deg);
 }
 
