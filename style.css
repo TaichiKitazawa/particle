@@ -60,8 +60,8 @@ html,body{
     height: 800px;
     background-color: #e54a4d;
     position: absolute;
-    top: 50px;
-    right: -150px;
+    top: 100px;
+    right: -200px;
     transform: rotate(35deg);
 }
 
