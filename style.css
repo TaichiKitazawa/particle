@@ -60,7 +60,7 @@ html,body{
     height: 400px;
     background-color: #e54a4d;
     position: absolute;
-    top: 140px;
+    top: 200px;
     right: -200px;
     transform: rotate(25deg);
 }
