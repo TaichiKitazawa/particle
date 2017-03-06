@@ -61,8 +61,8 @@ html,body{
     background-color: #e54a4d;
     position: absolute;
     top: 140px;
-    right: 50px;
-    transform: rotate(20deg);
+    right: 140px;
+    transform: rotate(25deg);
 }
 
 #c{
