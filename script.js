@@ -18,7 +18,7 @@ for (i = 0; i < partNum; i++) {
 
 function newParticle() {
     this.x = w / 2;
-    this.y = h / 15;
+    this.y = h / 20;
 
     this.vx = Math.random() * 10 - 5;
     this.vy = Math.random() * 10 - 5;
