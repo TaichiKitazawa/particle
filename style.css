@@ -41,8 +41,8 @@ html,body{
     height: 900px;
     background-color: #e54a4d;
     position: absolute;
-    top: 90px;
-    left: 1100px;
+    top: 50px;
+    left: 1200px;
     transform: rotate(65deg);
 }
 
